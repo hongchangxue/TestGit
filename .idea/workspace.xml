@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75173697-4893-4e70-8ac5-f0c74657f4dd" name="Default Changelist" comment="2">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestGit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloGit.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1YejYz61hNp8dIa0m1VLXwd9JhH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75173697-4893-4e70-8ac5-f0c74657f4dd" name="Default Changelist" comment="" />
+      <created>1583310005532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583310005532</updated>
+      <workItem from="1583310006742" duration="2636000" />
+      <workItem from="1583312652295" duration="629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="471" y="1" key="CommitChangelistDialog2" timestamp="1583313774178">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="471" y="1" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583313774178" />
+    <state x="244" y="119" width="992" height="560" key="DiffContextDialog" timestamp="1583311403365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="244" y="119" width="992" height="560" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1583311403365" />
+    <state x="693" y="167" key="FileChooserDialogImpl" timestamp="1583312621514">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="693" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583312621514" />
+    <state x="416" y="54" key="SettingsEditor" timestamp="1583312386505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="416" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583312386505" />
+    <state x="461" y="163" width="814" height="486" key="Vcs.Push.Dialog.v2" timestamp="1583312600679">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="163" width="814" height="486" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583312600679" />
+    <state x="570" y="339" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583312133766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="339" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1583312133766" />
+    <state x="441" y="202" key="git4idea.merge.GitPullDialog" timestamp="1583311333397">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="441" y="202" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1583311333397" />
+  </component>
+</project>
